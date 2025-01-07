@@ -1,0 +1,12 @@
+Field:You find yourself in a field with some pretty flowers:right=1
+Pile of Rocks:You find a large pile of rocks:left=0;up=2;forward=3
+Cliff:You find yourself on top of a cliff, you see the field below:off=0
+Bigger Pile of Rocks:You find a even bigger pile of rocks:back=1;south west=4
+The Underspace:You find yourself in a spooky place:do a backflip=0
+#
+Rock Pile:A contains many rocks:1;3
+Flowers:They smell weird:0,2
+Ladder:It seems to lead up:2
+Trees:They look tall:0
+Golem:He looks scary:3
+Portal:It is south west:3

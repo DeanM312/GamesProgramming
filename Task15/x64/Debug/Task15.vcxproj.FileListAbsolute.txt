@@ -1,0 +1,2 @@
+C:\Users\TechFast Australia\source\repos\Task15\x64\Debug\Task15.exe
+C:\Users\TechFast Australia\source\repos\Task15\x64\Debug\Task15.pdb
